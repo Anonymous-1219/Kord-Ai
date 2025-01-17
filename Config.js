@@ -19,7 +19,7 @@ global.settings = {
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
   AUTO_LIKE_STATUS: true,
-  AUTO_LIKE_EMOJI: '🍁',
+  AUTO_LIKE_EMOJI: '🎉',
   BANKING_DETAILS: {
     bank: "Opay", // the name of your preferred bank
     acc_number: "8082283844", // account number for your preferred bank
@@ -34,7 +34,7 @@ global.settings = {
   REJECT_CALLS: true,
   SEND_WELCOME_MESSAGE: true,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
-  DELETE_WA_LINKS: false,
+  DELETE_WA_LINKS: true,
   BAD_WORD_FILTER: true,
   BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
   ANTI_DELETE_ENABLED: true,
